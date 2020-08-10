@@ -27,20 +27,20 @@ timeline_data <- data.frame(event = c("Theoretical frame", "Fieldwork", "Analysi
 **Third, select the better option for your research: static or interactive visualizations.**
 
 A static option of the visualization:
-````{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 gg_vistime(timeline_data) 
 ```
 ![](img/I_1static.png)
 
 An interactive option of the same visualization:
-````{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 hc_vistime(timeline_data)
 ```
 ![](img/I_2interactive.png)
 
 
 There is another interactive option:
-````{r message=FALSE, warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 vistime(timeline_data)
 ```
 ![](img/I_3interactive.png)
