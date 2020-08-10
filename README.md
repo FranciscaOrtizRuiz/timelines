@@ -1,5 +1,5 @@
 
-#### Timelines Repository
+#### TIMELINES REPOSITORY
 
 Repository created by Francisca Ortiz
 
