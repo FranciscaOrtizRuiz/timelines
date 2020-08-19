@@ -8,7 +8,7 @@ I had worked into the understanding of life histories for a while. Until now, I 
 In this repository, I will give examples that I found useful to visualize timelines for social sciences researchers. Hopefully, it will be helpful for someone else too. 
 
 Some articule where I participated, about the life history approach and the use of the biographical approach from social science:
-  -  Ortiz, Francisca, Moyano, Camila y Moyano, Daniela (2020). “Por más que yo trabaje, trato de acomodar todo a mi hijo”: Usos de la visualización de líneas de tiempo en el enfoque biográfico. Revista CUHSO (en edición).
+  -  Ortiz, Francisca, Moyano, Camila y Moyano, Daniela (2020). “Por más que yo trabaje, trato de acomodar todo a mi hijo”: Usos de la visualización de líneas de tiempo en el enfoque biográfico. Revista CUHSO (Spanish - in edition)
   - Moyano, Camila & Ortiz, Francisca (2018). Subjects analyzing subjects in the biographical approach: a generational study of Chilean musicians. Contemporary Social Science, 1-12. 
   - Moyano, C. & Ortiz, F. (2016). Los estudios biográficos en las Ciencias Sociales del Chile reciente: hacia la consolidación del enfoque. Psicoperspectivas, 15(1): 17-29. (In spanish)
 
